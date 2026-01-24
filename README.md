@@ -51,7 +51,7 @@ Atualmente, busco evoluir constantemente na área de desenvolvimento, criando pr
 ## 📌 Projetos em Destaque
 
 * 🏠 **Plataforma de Imóveis (Venda e Aluguel)** – Sistema completo em Laravel com cadastro de usuários, painel admin, filtros de busca e planos pagos.
-* 🧩 **Sistemas Web sob demanda** – Projetos voltados para páginas institucionais e aplicações com regras de negócio.
+* 🧩 **Sistema de Mapeamento de Árvores** – Projeto com a SEMAC de Paracambi, com o objetivo de mapear todas as arvores da área urbana.
 * 🔐 **Autenticação e Painel Administrativo** – Implementação de login, permissões, áreas restritas e gestão de usuários.
 
 ---
@@ -85,7 +85,7 @@ Atualmente, busco evoluir constantemente na área de desenvolvimento, criando pr
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 
-  <a href="mailto:crescembenigui78@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=crescembenigui78@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
@@ -103,5 +103,5 @@ Atualmente, busco evoluir constantemente na área de desenvolvimento, criando pr
 <br>
 
 <p align="center">
-  <i>"Disciplina vence motivação."</i>
+  <i>"Hoje eu erro menos do que ontem. Amanhã eu acerto mais."</i>
 </p>
