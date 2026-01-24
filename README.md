@@ -6,7 +6,7 @@
 
 # Olá, meu nome é Guilherme! 👋
 
-### 👨‍💻 Desenvolvedor Backend | PHP (Laravel) • Técnico de TI
+### 👨‍💻 Desenvolvedor Backend | PHP (Laravel) • Técnico de TI • Cursando Engenharia de Software
 
 Sou estudante e desenvolvedor com foco em **Backend**, criando aplicações web robustas e bem estruturadas com **PHP (Laravel)**, banco de dados **MySQL** e integração com sistemas modernos.  
 Também tenho experiência com **Java**, **JavaScript** e projetos que envolvem automação e lógica avançada.
